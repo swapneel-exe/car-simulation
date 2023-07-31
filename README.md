@@ -27,14 +27,6 @@ Implementing a fitness function to evaluate the performance of each car based on
 
 ## Getting Started
 
-### Prerequisites
-Ensure you have Python installed on your machine along with the required libraries: Pygame and NEAT. You can install them using pip:
-
-```bash
-pip install pygame
-pip install neat-python
-
-
 ### Running the Simulation
 Clone this repository and run the `car_simulation.py` script to start the car simulation:
 
